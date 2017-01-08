@@ -13,6 +13,7 @@
 		CDD66A281E2270F2003AF494 /* DoIt.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CDD66A261E2270F2003AF494 /* DoIt.xcdatamodeld */; };
 		CDD66A2A1E2270F2003AF494 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDD66A291E2270F2003AF494 /* Assets.xcassets */; };
 		CDD66A2D1E2270F2003AF494 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDD66A2B1E2270F2003AF494 /* LaunchScreen.storyboard */; };
+		CDD66A351E2276D7003AF494 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD66A341E2276D7003AF494 /* Task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CDD66A291E2270F2003AF494 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CDD66A2C1E2270F2003AF494 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CDD66A2E1E2270F2003AF494 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CDD66A341E2276D7003AF494 /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CDD66A1F1E2270F2003AF494 /* AppDelegate.swift */,
 				CDD66A211E2270F2003AF494 /* ViewController.swift */,
 				CDD66A231E2270F2003AF494 /* Main.storyboard */,
+				CDD66A341E2276D7003AF494 /* Task.swift */,
 				CDD66A291E2270F2003AF494 /* Assets.xcassets */,
 				CDD66A2B1E2270F2003AF494 /* LaunchScreen.storyboard */,
 				CDD66A2E1E2270F2003AF494 /* Info.plist */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDD66A281E2270F2003AF494 /* DoIt.xcdatamodeld in Sources */,
+				CDD66A351E2276D7003AF494 /* Task.swift in Sources */,
 				CDD66A221E2270F2003AF494 /* ViewController.swift in Sources */,
 				CDD66A201E2270F2003AF494 /* AppDelegate.swift in Sources */,
 			);
